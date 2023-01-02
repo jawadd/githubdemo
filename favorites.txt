@@ -1,3 +1,5 @@
 fish
 chicken
 meat
+kebab
+tikka
